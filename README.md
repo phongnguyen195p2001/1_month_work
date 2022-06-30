@@ -29,3 +29,6 @@ Sau khi xử lý xong, toàn bộ kết quả được đẩy về phần View. 
 ## Laravel
 ### [Trang Web chính của Laravel](https://laravel.com/)
 ![alt text](https://blog.haposoft.com/content/images/size/w2000/2021/11/laravel-featured.png)
+
+### Route
+![alt text](https://hoangan.net/wp-content/uploads/2021/01/b4bce647-722e-4064-ac19-b7e9e0d0573e.png)
